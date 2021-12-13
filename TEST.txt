@@ -1,8 +1,7 @@
 Main Sunghyun
 
-Second Commit
-<<<<<<< HEAD
 
-will be cahange
-=======
->>>>>>> parent of 37de7b1 (FEAT : new Na0)
+
+
+tkelkelrelrelklekleffefeffe
+sdadasd
